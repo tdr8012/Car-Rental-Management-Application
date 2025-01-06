@@ -17,7 +17,7 @@
   - Seats
   - Car description
 
-#### ** Car Rental Process**
+#### **Car Rental Process**
 - **Rent a Car:** Select your desired car for rental.
 - **Set Dates:** Choose valid start and end dates for your rental period.
 
