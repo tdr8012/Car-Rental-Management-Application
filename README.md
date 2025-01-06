@@ -7,7 +7,7 @@
 - **Register:** Create a new account using Password-Based Account (Firebase SDK Authentication).
 
 #### **🚗 Car Search and View Available Cars**
-- **Search Cars:** Easily find the perfect car based on your search for a car name and any other available details.
+- **Search Cars:** Easily find the perfect car based on your search for a car name and other available details.
 - **Browse Information:** Explore detailed information about cars, including:
   - Brand
   - Model
@@ -17,7 +17,7 @@
   - Seats
   - Car description
 
-#### **Car Rental Process**
+#### Car Rental Process
 - **Rent a Car:** Select your desired car for rental.
 - **Set Dates:** Choose valid start and end dates for your rental period.
 
@@ -38,12 +38,12 @@
 - **Account Details:** View your personal information, including name, Gmail, date of account creation, and set your avatar.
 - **Logout:** Securely exit your account.
 
-### ** Admin’s Side**
+### Admin’s Side
 
 #### **🔐 User Authentication**
 - **Login:** Securely access your account using Google Email or Email and password-based authentication (Firebase SDK Authentication).
 
-####  Car Management
+#### Car Management
 - **Add New Cars:**
   - Enter details such as car model, brand, seating capacity, location, price, and upload photos (optional).
 - **View All Cars:**
@@ -62,49 +62,9 @@
 
 ---
 
-## User Interface
-
-### **📱 Login and Register UI:**
-A simple and secure interface allowing users to register or log in with ease.
-
-### **🏠 Customer Dashboard:**
-**Main UI:** A centralized view displaying available cars, account details, and rental history.
-
-### **🚗 Rent Car UI:**
-Efficiently select a car, choose rental dates, and proceed to payment.
-
-### **💳 Payment UI:**
-Streamlined interface for secure payment processing.
-
-### **📄 Contracts UI:**
-View and manage rental contracts, including status and details.
-
-### **👤 Profile UI:**
-Manage personal details, update the avatar, and view account creation date.
-
-### **🛠 Admin Dashboard:**
-Centralized tools for managing users, cars, and contracts.
-
-### **➕ Add Car UI:**
-Easily input car details, including brand, model, price, and upload images.
-
-### **📋 View Car List UI:**
-Browse and manage the entire inventory of cars.
-
-### **✏️ Edit Car UI:**
-Quickly modify car details like price, availability, and description.
-
-### **📄 View Contracts & Edit Contract UI:**
-Monitor customer contracts and update statuses.
-
-### **👥 View User’s Profiles UI:**
-Access user profiles and manage account permissions.
-
----
-
 ## **Technologies Used**
 
-### ** Frontend**
+### Frontend
 - **Android Studio Koala (2024.1.1 Patch 2):** IDE used for developing the Android App.
 - **XML 1.0:** For designing the user interface (UI) components.
 - **Java 8:** Processes the business logic and user interactions.
@@ -138,10 +98,9 @@ Access user profiles and manage account permissions.
 
 ---
 
-**Enjoy using the Car Rental Management App and elevate your car rental experience!**
-
-
 ## Final Note
 
 📌 **Please check further info inside the PDF** ❗
+
+**Enjoy using the Car Rental Management App and elevate your car rental experience!**
 
