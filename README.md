@@ -43,7 +43,7 @@
 #### **🔐 User Authentication**
 - **Login:** Securely access your account using Google Email or Email and password-based authentication (Firebase SDK Authentication).
 
-#### ** Car Management**
+####  Car Management
 - **Add New Cars:**
   - Enter details such as car model, brand, seating capacity, location, price, and upload photos (optional).
 - **View All Cars:**
@@ -62,7 +62,7 @@
 
 ---
 
-## **User Interface**
+## User Interface
 
 ### **📱 Login and Register UI:**
 A simple and secure interface allowing users to register or log in with ease.
