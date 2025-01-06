@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CarRentalApp</string>
+    <string name="logo_description">App Logo</string>
+    <string name="location_icon_description">Location Icon</string>
+    <string name="seat_icon_description">Seat Icon</string>
+    <string name="price_icon_description">Price Icon</string>
+    <string name="user_avatar">User Avatar</string>
+    <string name="rate_experience_button_description">Rate Experience Button</string>
+    <string name="view_details_button_description">View Details Button</string>
+    <string name="edit_contract_button_description">Edit Contract Button</string>
+    <string name="car_image">Car Image</string>
+</resources>
+
+
