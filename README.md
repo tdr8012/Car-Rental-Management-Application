@@ -100,7 +100,7 @@
 
 ## Final Note
 
-📌 **Please check further info inside the PDF** ❗
+📌 **Please check further info inside the Car Rental App.pdf** ❗
 
 **Enjoy using the Car Rental Management App and elevate your car rental experience!**
 
